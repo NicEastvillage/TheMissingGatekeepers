@@ -3,8 +3,8 @@
 This is a data pack + resource pack that aims to improve Minecraft's progression by inserting a new challenge between each tier of tools. This makes Minecraft way less linear and therefore more interesting. My goal was also to preserve the core aspect of Minecraft, so the changes are small and few, but impactful. Specifically this data- and resource pack will:
 
 - Replace Stone Pickaxes with Bone Pickaxes, which are made from Bone Blocks,
-- Make Diamond Ores drop Raw Diamonds (a new item),
-- Add a recipe for polishing Raw Diamonds into Diamonds using Magma Cream,
+- Make Diamond Ores drop Rough Diamonds (a new item),
+- Add a recipe for polishing Rough Diamonds into Diamonds using Magma Cream,
 - Adjust loot tables, such that iron and diamonds are more rare
 
 I recommend playing on hard difficulty optimal survival experience.

@@ -129,7 +129,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Raw Diamond\",\"italic\":false}'},CustomModelData:15564,raw_diamond:1b}"
+              "tag": "{display:{Name:'{\"text\":\"Rough Diamond\",\"italic\":false}'},CustomModelData:15564,raw_diamond:1b}"
             },
             {
               "function": "minecraft:set_count",
