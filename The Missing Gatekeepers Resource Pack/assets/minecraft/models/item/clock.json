@@ -69,6 +69,6 @@
         { "predicate": { "time": 0.9609375 }, "model": "item/clock_62" },
         { "predicate": { "time": 0.9765625 }, "model": "item/clock_63" },
         { "predicate": { "time": 0.9921875 }, "model": "item/clock" },
-        { "predicate": { "custom_model_data": 15564 }, "model": "item/raw_diamond" }
+        { "predicate": { "custom_model_data": 15564 }, "model": "item/rough_diamond" }
     ]
 }

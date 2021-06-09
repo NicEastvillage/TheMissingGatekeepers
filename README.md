@@ -5,7 +5,9 @@ This is a data pack + resource pack that aims to improve Minecraft's progression
 - Replace Stone Pickaxes with Bone Pickaxes, which are made from Bone Blocks,
 - Make Diamond Ores drop Rough Diamonds (a new item),
 - Add a recipe for polishing Rough Diamonds into Diamonds using Magma Cream,
-- Adjust loot tables, such that iron and diamonds are more rare
+- Adjust loot tables, such that iron and diamonds are more rare,
+- Allow iron pickaxes to mine obsidian and crying obsidian,
+- Slightly increase the amount of leather dropped by cows
 
 I recommend playing on hard difficulty optimal survival experience.
 
