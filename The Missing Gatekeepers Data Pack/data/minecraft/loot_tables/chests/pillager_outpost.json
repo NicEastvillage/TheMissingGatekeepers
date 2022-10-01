@@ -172,7 +172,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:clock",
+          "name": "minecraft:recovery_compass",
           "functions": [
             {
               "function": "minecraft:set_count",

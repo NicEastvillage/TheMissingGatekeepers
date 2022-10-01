@@ -43,7 +43,7 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:clock",
+          "name": "minecraft:recovery_compass",
           "functions": [
             {
               "function": "minecraft:set_nbt",

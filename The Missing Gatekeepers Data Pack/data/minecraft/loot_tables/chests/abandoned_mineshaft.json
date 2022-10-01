@@ -113,7 +113,7 @@
         {
           "type": "minecraft:item",
           "weight": 2,
-          "name": "minecraft:clock",
+          "name": "minecraft:recovery_compass",
           "functions": [
             {
               "function": "minecraft:set_count",

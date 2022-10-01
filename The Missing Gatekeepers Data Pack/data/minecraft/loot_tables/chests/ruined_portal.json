@@ -236,7 +236,7 @@
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:clock"
+          "name": "minecraft:recovery_compass"
         },
         {
           "type": "minecraft:item",

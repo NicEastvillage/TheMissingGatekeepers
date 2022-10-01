@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:recovery_compass"
+      "item": "minecraft:clock"
     },
     {
       "item": "minecraft:magma_cream"
